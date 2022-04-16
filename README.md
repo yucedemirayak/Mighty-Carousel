@@ -1,5 +1,7 @@
 # Mighty-Carousel
 
+![banner picture 1](https://github.com/yucedemirayak/Mighty-Carousel/blob/master/Banners/1.jpeg)
+
 ## How to use ?
 
 ### 1st link the css and js file in the html document
@@ -24,6 +26,7 @@
       </div>
     </div>
 ```
+![banner picture 1](https://github.com/yucedemirayak/Mighty-Carousel/blob/master/Banners/2.jpeg)
 ### You can add as many mc-items as you want.
 ### Furthermore you can display multiple images per slide by changing imgps dataset.
 The maximum value that the imgps dataset can take should be 1 less than the length of the added items.
