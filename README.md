@@ -1,7 +1,7 @@
 # Mighty-Carousel
 
 ![banner picture 1](https://github.com/yucedemirayak/Mighty-Carousel/blob/master/Banners/1.jpeg)
-
+### For demo -> https://www.yucedemirayak.com/mighty-carousel-demo.html
 ## How to use ?
 
 ### 1st link the css and js file in the html document
