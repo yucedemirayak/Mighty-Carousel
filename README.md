@@ -24,7 +24,7 @@
           .
           .
       </div>
-    </div>
+</div>
 ```
 ![banner picture 1](https://github.com/yucedemirayak/Mighty-Carousel/blob/master/Banners/2.jpeg)
 ### You can add as many mc-items as you want.
